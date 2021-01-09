@@ -1,3 +1,9 @@
+/*
+This is a Two Player Tic Tac Toe developed as my first C++ project.
+Author : Kunal Kumar Sahoo
+If you encouter any issues please let me know and any kindof suggestions are pleasantly welcome :)
+*/
+
 #include <iostream>
 using namespace std;
 
